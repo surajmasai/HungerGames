@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,63 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 20px;
+  width: 90%;
+  margin: auto;
+  /* border: 1px solid red; */
+  padding-left: 60px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  /* height: 650px; */
+}
+
+.containerItem {
+  display: flex;
+  column-gap: 15px;
+}
+.itemDetails {
+  display: flex;
+  column-gap: 20px;
+}
+.itemImage img {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 5px;
+  width: 180px;
+}
+
+.orderbutton > button {
+  float: right;
+}
+.maincontainer {
+  border: 1px solid black;
+}
+
+@media screen and (max-width: 1300px) {
+  .container {
+    display: grid;
+    grid-template-columns: auto auto;
+    /* height: 1300px; */
+  }
+}
+@media screen and (max-width: 660px) {
+  .container {
+    display: grid;
+    grid-template-columns: auto;
+    /* height: 2000px; */
+  }
+}
+
+.paginationbutton {
+  text-align: center;
+  margin-top: 100px;
+}
+.paginationbutton > button {
+  width: 100px;
+  height: 30px;
+  margin-right: 10px;
 }
