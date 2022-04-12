@@ -45,9 +45,20 @@ export const Addrestaurant = () => {
                 cash: form.cash,
                 upi: form.upi,
             },
-            immageUrl: form.immageUrl,
+            immageUrl: form.immageUrl
         }
-        console.log(payload)
+        // console.log(payload)
+        fetch("http://localhost:3001/restaurantDetails", {
+            method: "POST",
+            body: JSON.stringify(payload),
+            headers: {
+                "Content-Type": "application/json"
+            }
+        }).then((res) => {
+            console.log(res)
+        }).catch((err) => {
+            console.log(err)
+        })
 
     }
 
@@ -66,17 +77,17 @@ export const Addrestaurant = () => {
                     <tr>
                         <th>
                             <span>card</span>
-                            <input type="checkbox" name="card" onChange={handleChange} defaultChecked={true} />
+                            <input type="checkbox" name="card" onChange={handleChange} />
                         </th>
 
                         <th>
                             <span>cash</span>
-                            <input type="checkbox" name="cash" onChange={handleChange} defaultChecked={true} />
+                            <input type="checkbox" name="cash" onChange={handleChange} />
                         </th>
 
                         <th>
                             <span>upi</span>
-                            <input type="checkbox" name="upi" onChange={handleChange} defaultChecked={true} />
+                            <input type="checkbox" name="upi" onChange={handleChange} />
                         </th>
                     </tr>
                 </table>

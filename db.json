@@ -6,294 +6,314 @@
       "costforone": 600,
       "totalvotes": 500,
       "reviews": 500,
-       "rating" : 4.3,
+      "rating": 4.3,
       "payment_methods": {
         "card": true,
         "cash": true,
         "upi": true
       },
-      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU"
+      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 1
     },
-      {
+    {
       "name": "BRU Brewpark",
       "menu": "Continental, pizza, Asian",
       "costforone": 700,
       "totalvotes": 500,
       "reviews": 433,
-       "rating" : 4.4,
+      "rating": 4.4,
       "payment_methods": {
         "card": true,
         "cash": false,
         "upi": true
       },
-      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU"
+      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 2
     },
-      {
+    {
       "name": "ARU Brewpark",
       "menu": "Continental, pizza, Asian",
       "costforone": 500,
       "totalvotes": 121,
       "reviews": 100,
-       "rating" : 4.6,
+      "rating": 4.6,
       "payment_methods": {
         "card": false,
         "cash": true,
         "upi": false
       },
-      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU"
+      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 3
     },
-      {
+    {
       "name": "WRU Brewpark",
       "menu": "Continental, pizza, Asian",
       "costforone": 900,
       "totalvotes": 500,
       "reviews": 300,
-       "rating" : 4.1,
+      "rating": 4.1,
       "payment_methods": {
         "card": true,
         "cash": true,
         "upi": true
       },
-      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU"
+      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 4
     },
-      {
+    {
       "name": "WEU Brewpark",
       "menu": "Continental, pizza, Asian",
       "costforone": 580,
       "totalvotes": 880,
       "reviews": 614,
-       "rating" : 3.9,
+      "rating": 3.9,
       "payment_methods": {
         "card": true,
         "cash": false,
         "upi": false
       },
-      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU"
+      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 5
     },
-      {
+    {
       "name": "ITO Brewpark",
       "menu": "Continental, pizza, Asian",
       "costforone": 951,
       "totalvotes": 766,
       "reviews": 512,
-       "rating" : 3.6,
+      "rating": 3.6,
       "payment_methods": {
         "card": false,
         "cash": false,
         "upi": true
       },
-      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU"
+      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 6
     },
-      {
+    {
       "name": "URO Brewpark",
       "menu": "Continental, pizza, Asian",
       "costforone": 200,
       "totalvotes": 700,
       "reviews": 523,
-       "rating" : 3.1,
+      "rating": 3.1,
       "payment_methods": {
         "card": true,
         "cash": false,
         "upi": true
       },
-      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU"
+      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 7
     },
-      {
+    {
       "name": "IND Brewpark",
       "menu": "Continental, pizza, Asian",
       "costforone": 100,
       "totalvotes": 960,
       "reviews": 885,
-       "rating" : 3.2,
+      "rating": 3.2,
       "payment_methods": {
         "card": true,
         "cash": true,
         "upi": true
       },
-      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU"
+      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 8
     },
-      {
+    {
       "name": "MUM Brewpark",
       "menu": "Continental, pizza, Asian",
       "costforone": 450,
       "totalvotes": 300,
       "reviews": 235,
-       "rating" : 2.2,
+      "rating": 2.2,
       "payment_methods": {
         "card": false,
         "cash": false,
         "upi": true
       },
-      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU"
+      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 9
     },
-      {
+    {
       "name": "ARA Brewpark",
       "menu": "Continental, pizza, Asian",
       "costforone": 300,
       "totalvotes": 750,
       "reviews": 654,
-       "rating" : 2.9,
+      "rating": 2.9,
       "payment_methods": {
         "card": true,
         "cash": true,
         "upi": true
       },
-      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU"
+      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 10
     },
-      {
+    {
       "name": "DEL Brewpark",
       "menu": "Continental, pizza, Asian",
       "costforone": 820,
       "totalvotes": 800,
       "reviews": 400,
-       "rating" : 4.2,
+      "rating": 4.2,
       "payment_methods": {
         "card": true,
         "cash": true,
         "upi": true
       },
-      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU"
+      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 11
     },
-      {
+    {
       "name": "UJJ Brewpark",
       "menu": "Continental, pizza, Asian",
       "costforone": 320,
       "totalvotes": 100,
       "reviews": 65,
-      "rating" : 3.2,
+      "rating": 3.2,
       "payment_methods": {
         "card": true,
         "cash": true,
         "upi": true
       },
-      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU"
+      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 12
     },
-      {
+    {
       "name": "UKE Brewpark",
       "menu": "Continental, pizza, Asian",
       "costforone": 200,
       "totalvotes": 200,
       "reviews": 184,
-       "rating" : 2.2,
+      "rating": 2.2,
       "payment_methods": {
         "card": true,
         "cash": true,
         "upi": true
       },
-      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU"
+      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 13
     },
-      {
+    {
       "name": "REW Brewpark",
       "menu": "Continental, pizza, Asian",
       "costforone": 630,
       "totalvotes": 1000,
       "reviews": 963,
-       "rating" : 4.8,
+      "rating": 4.8,
       "payment_methods": {
         "card": true,
         "cash": true,
         "upi": true
       },
-      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU"
+      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 14
     },
-      {
+    {
       "name": "MNV Brewpark",
       "menu": "Continental, pizza, Asian",
       "costforone": 741,
       "totalvotes": 654,
       "reviews": 525,
-       "rating" : 2.2,
+      "rating": 2.2,
       "payment_methods": {
         "card": true,
         "cash": true,
         "upi": true
       },
-      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU"
+      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 15
     },
-      {
+    {
       "name": "MNC Brewpark",
       "menu": "Continental, pizza, Asian",
       "costforone": 258,
       "totalvotes": 742,
       "reviews": 458,
-       "rating" : 1.2,
+      "rating": 1.2,
       "payment_methods": {
         "card": true,
         "cash": true,
         "upi": true
       },
-      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU"
+      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 16
     },
-      {
+    {
       "name": "CAT Brewpark",
       "menu": "Continental, pizza, Asian",
       "costforone": 369,
       "totalvotes": 754,
       "reviews": 985,
-       "rating" : 3.9,
+      "rating": 3.9,
       "payment_methods": {
         "card": true,
         "cash": true,
         "upi": true
       },
-      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU"
+      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 17
     },
-      {
+    {
       "name": "LAA Brewpark",
       "menu": "Continental, pizza, Asian",
       "costforone": 654,
       "totalvotes": 300,
       "reviews": 154,
-       "rating" : 4.5,
+      "rating": 4.5,
       "payment_methods": {
         "card": true,
         "cash": true,
         "upi": true
       },
-      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU"
+      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 18
     },
-      {
+    {
       "name": "WET Brewpark",
       "menu": "Continental, pizza, Asian",
       "costforone": 321,
       "totalvotes": 680,
       "reviews": 487,
-       "rating" : 4.6,
+      "rating": 4.6,
       "payment_methods": {
         "card": true,
         "cash": true,
         "upi": true
       },
-      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU"
+      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 19
     },
-      {
+    {
       "name": "RET Brewpark",
       "menu": "Continental, pizza, Asian",
       "costforone": 789,
       "totalvotes": 453,
-      "reviews":354,
-       "rating" : 4.7,
+      "reviews": 354,
+      "rating": 4.7,
       "payment_methods": {
         "card": true,
         "cash": true,
         "upi": false
       },
-      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU"
+      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 20
     },
-      {
+    {
       "name": "REM Brewpark",
       "menu": "Continental, pizza, Asian",
       "costforone": 159,
       "totalvotes": 900,
       "reviews": 875,
- "rating" : 4.8,
+      "rating": 4.8,
       "payment_methods": {
         "card": false,
         "cash": true,
         "upi": false
       },
-      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU"
+      "immageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 21
     }
-    
   ]
 }
